@@ -1,0 +1,13 @@
+numero = float(input('digite um numero real: '))
+
+cubo = ** 3
+
+print('o cubo do numero é:', cubo)
+
+
+
+prato1 = 'parmegiana'
+prato2 = 'feijoada'
+prato3 = 'baião de dois'
+
+resultado = fruta
