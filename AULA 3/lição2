@@ -1,0 +1,15 @@
+fruta1 = 'parmegiana'
+fruta2 = 'feijoada'
+fruta3 = 'baião de dois'
+
+resultado = fruta1 + fruta2 + fruta3
+
+print(resultado)
+
+
+numero1 = int(input('digite o primeiro: numero:'))
+numero2 = int(input('digite o segundo: numero:'))
+
+resultado = str(numero1) + str(numero2)
+
+print('resultado da contenção: ', resultado)
